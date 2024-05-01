@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+            "cppStandard": "c++20",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "includePath": [
+                "C:\\Users\\Hp\\Downloads\\json-develop\\json-develop\\single_include\\nlohmann"
+            ]
+        }
+    ],
+    "version": 4,
+    "enableConfigurationSquiggles": true
+}

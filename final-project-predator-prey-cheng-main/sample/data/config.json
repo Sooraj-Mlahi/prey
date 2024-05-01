@@ -1,0 +1,7 @@
+{
+    "seed": 10,
+    "region_limit": 10,
+    "number_of_preys": 1000,
+    "predator_speed": 10.7,
+    "prey_speed": 4
+}
